@@ -1,0 +1,1580 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:04:51] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:05:01] 
+[20:05:01] Server Plugins
+[20:05:01] --------------
+[20:05:01]  Loaded 0 plugins.
+
+[20:05:01] 
+[20:05:01] Filterscripts
+[20:05:01] ---------------
+[20:05:01]   Loaded 0 filterscripts.
+
+[20:05:01] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[20:05:01] Number of vehicle models: 0
+Console input: 
+[20:05:10] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:05:18] 
+[20:05:18] Server Plugins
+[20:05:18] --------------
+[20:05:18]  Loaded 0 plugins.
+
+[20:05:18] 
+[20:05:18] Filterscripts
+[20:05:18] ---------------
+[20:05:18]   Loaded 0 filterscripts.
+
+[20:05:18] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[20:05:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:06:13] 
+[20:06:13] Server Plugins
+[20:06:13] --------------
+[20:06:13]  Loaded 0 plugins.
+
+[20:06:13] 
+[20:06:13] Filterscripts
+[20:06:13] ---------------
+[20:06:13]   Loaded 0 filterscripts.
+
+[20:06:13] 
+----------------------------------
+[20:06:13]  Blank Gamemode by your name here
+[20:06:13] ----------------------------------
+
+[20:06:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:00:57] 
+[18:00:57] Server Plugins
+[18:00:57] --------------
+[18:00:57]  Loaded 0 plugins.
+
+[18:00:57] 
+[18:00:57] Filterscripts
+[18:00:57] ---------------
+[18:00:57]   Loaded 0 filterscripts.
+
+[18:00:57] 
+----------------------------------
+[18:00:57]  Blank Gamemode by your name here
+[18:00:57] ----------------------------------
+
+[18:00:57] Number of vehicle models: 0
+[18:01:19] [connection] 127.0.0.1:55045 requests connection cookie.
+[18:01:20] [connection] incoming connection: 127.0.0.1:55045 id: 0
+[18:01:20] [join] xWivar has joined the server (0:127.0.0.1)
+[18:01:25] [chat] [xWivar]: #s
+[18:02:02] [chat] [xWivar]: {aaaaaaa}12
+[18:02:05] [chat] [xWivar]: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:04:43] 
+[18:04:43] Server Plugins
+[18:04:43] --------------
+[18:04:43]  Loaded 0 plugins.
+
+[18:04:43] 
+[18:04:43] Filterscripts
+[18:04:43] ---------------
+[18:04:43]   Loaded 0 filterscripts.
+
+[18:04:43] 
+----------------------------------
+[18:04:43]  Blank Gamemode by your name here
+[18:04:43] ----------------------------------
+
+[18:04:43] Number of vehicle models: 0
+[18:04:51] [connection] 127.0.0.1:64880 requests connection cookie.
+[18:04:52] [connection] incoming connection: 127.0.0.1:64880 id: 0
+[18:04:52] [join] xWivar has joined the server (0:127.0.0.1)
+[18:05:17] [part] xWivar has left the server (0:2)
+[18:05:17] [connection] incoming connection: 127.0.0.1:58399 id: 0
+[18:05:17] [join] xWivar has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:08:24] 
+[18:08:24] Server Plugins
+[18:08:24] --------------
+[18:08:24]  Loading plugin: fmt
+[18:08:25]  * fmt plugin loaded
+[18:08:25]  * v2.1 (c) vsergeenko
+[18:08:25]   Loaded.
+[18:08:25]  Loaded 1 plugins.
+
+[18:08:25] 
+[18:08:25] Filterscripts
+[18:08:25] ---------------
+[18:08:25]   Loaded 0 filterscripts.
+
+[18:08:25] 
+----------------------------------
+[18:08:25]  Blank Gamemode by your name here
+[18:08:25] ----------------------------------
+
+[18:08:25] Number of vehicle models: 0
+[18:08:33] [connection] 127.0.0.1:53303 requests connection cookie.
+[18:08:34] [connection] incoming connection: 127.0.0.1:53303 id: 0
+[18:08:34] [join] xWivar has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:09:37] 
+[18:09:37] Server Plugins
+[18:09:37] --------------
+[18:09:37]  Loading plugin: fmt
+[18:09:37]  * fmt plugin loaded
+[18:09:37]  * v2.1 (c) vsergeenko
+[18:09:37]   Loaded.
+[18:09:37]  Loaded 1 plugins.
+
+[18:09:37] 
+[18:09:37] Filterscripts
+[18:09:37] ---------------
+[18:09:37]   Loaded 0 filterscripts.
+
+[18:09:37] 
+----------------------------------
+[18:09:37]  Blank Gamemode by your name here
+[18:09:37] ----------------------------------
+
+[18:09:37] Number of vehicle models: 0
+[18:09:41] [connection] 127.0.0.1:58710 requests connection cookie.
+[18:09:42] [connection] incoming connection: 127.0.0.1:58710 id: 0
+[18:09:42] [join] xWivar has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:12:10] 
+[18:12:10] Server Plugins
+[18:12:10] --------------
+[18:12:10]  Loading plugin: fmt
+[18:12:10]  * fmt plugin loaded
+[18:12:10]  * v2.1 (c) vsergeenko
+[18:12:10]   Loaded.
+[18:12:10]  Loaded 1 plugins.
+
+[18:12:10] 
+[18:12:10] Filterscripts
+[18:12:10] ---------------
+[18:12:10]   Loaded 0 filterscripts.
+
+[18:12:10] 
+----------------------------------
+[18:12:10]  Blank Gamemode by your name here
+[18:12:10] ----------------------------------
+
+[18:12:10] Number of vehicle models: 0
+[18:12:11] [connection] 127.0.0.1:52311 requests connection cookie.
+[18:12:12] [connection] incoming connection: 127.0.0.1:52311 id: 0
+[18:12:12] [join] xWivar has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:16:21] 
+[18:16:21] Server Plugins
+[18:16:21] --------------
+[18:16:21]  Loading plugin: fmt
+[18:16:21]  * fmt plugin loaded
+[18:16:21]  * v2.1 (c) vsergeenko
+[18:16:21]   Loaded.
+[18:16:21]  Loading plugin: mysql
+[18:16:22]  >> plugin.mysql: R41-4 successfully loaded.
+[18:16:22]   Loaded.
+[18:16:22]  Loading plugin: sscanf
+[18:16:23] 
+[18:16:23]  ===============================
+[18:16:23] 
+[18:16:23]       sscanf plugin loaded.     
+[18:16:23] 
+[18:16:23]          Version: 2.13.2
+[18:16:23] 
+[18:16:23]    (c) 2022 Alex "Y_Less" Cole  
+[18:16:23] 
+[18:16:23]  ===============================
+[18:16:23] 
+[18:16:23]   Loaded.
+[18:16:23]  Loaded 3 plugins.
+
+[18:16:23] 
+[18:16:23] Filterscripts
+[18:16:23] ---------------
+[18:16:23]   Loaded 0 filterscripts.
+
+[18:16:23] 
+----------------------------------
+[18:16:23]  Blank Gamemode by your name here
+[18:16:23] ----------------------------------
+
+[18:16:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:46:19] 
+[21:46:19] Server Plugins
+[21:46:19] --------------
+[21:46:19]  Loading plugin: fmt
+[21:46:19]  * fmt plugin loaded
+[21:46:19]  * v2.1 (c) vsergeenko
+[21:46:19]   Loaded.
+[21:46:19]  Loading plugin: mysql
+[21:46:19]  >> plugin.mysql: R41-4 successfully loaded.
+[21:46:19]   Loaded.
+[21:46:19]  Loading plugin: sscanf
+[21:46:19] 
+[21:46:19]  ===============================
+[21:46:19] 
+[21:46:19]       sscanf plugin loaded.     
+[21:46:19] 
+[21:46:19]          Version: 2.13.2
+[21:46:19] 
+[21:46:19]    (c) 2022 Alex "Y_Less" Cole  
+[21:46:19] 
+[21:46:19]  ===============================
+[21:46:19] 
+[21:46:19]   Loaded.
+[21:46:19]  Loaded 3 plugins.
+
+[21:46:19] 
+[21:46:19] Filterscripts
+[21:46:19] ---------------
+[21:46:19]   Loaded 0 filterscripts.
+
+[21:46:27] 
+----------------------------------
+[21:46:27]  Blank Gamemode by your name here
+[21:46:27] ----------------------------------
+
+[21:46:27] Number of vehicle models: 0
+[21:46:32] [connection] 127.0.0.1:63984 requests connection cookie.
+[21:46:33] [connection] incoming connection: 127.0.0.1:63984 id: 0
+[21:46:34] [join] xWivar has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:47:16] 
+[21:47:16] Server Plugins
+[21:47:16] --------------
+[21:47:16]  Loading plugin: fmt
+[21:47:16]  * fmt plugin loaded
+[21:47:16]  * v2.1 (c) vsergeenko
+[21:47:16]   Loaded.
+[21:47:16]  Loading plugin: mysql
+[21:47:16]  >> plugin.mysql: R41-4 successfully loaded.
+[21:47:16]   Loaded.
+[21:47:16]  Loading plugin: sscanf
+[21:47:16] 
+[21:47:16]  ===============================
+[21:47:16] 
+[21:47:16]       sscanf plugin loaded.     
+[21:47:16] 
+[21:47:16]          Version: 2.13.2
+[21:47:16] 
+[21:47:16]    (c) 2022 Alex "Y_Less" Cole  
+[21:47:16] 
+[21:47:16]  ===============================
+[21:47:16] 
+[21:47:16]   Loaded.
+[21:47:16]  Loaded 3 plugins.
+
+[21:47:16] 
+[21:47:16] Filterscripts
+[21:47:16] ---------------
+[21:47:16]   Loaded 0 filterscripts.
+
+[21:47:17] [connection] 127.0.0.1:57567 requests connection cookie.
+[21:47:24] 
+----------------------------------
+[21:47:24]  Blank Gamemode by your name here
+[21:47:24] ----------------------------------
+
+[21:47:24] Number of vehicle models: 0
+[21:47:24] [connection] incoming connection: 127.0.0.1:57567 id: 0
+[21:47:24] Invalid client connecting from 127.0.0.1
+[21:47:25] [connection] incoming connection: 127.0.0.1:59608 id: 0
+[21:47:25] [join] xWivar has joined the server (0:127.0.0.1)
+[21:56:30] [part] xWivar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:56:36] 
+[23:56:36] Server Plugins
+[23:56:36] --------------
+[23:56:36]  Loading plugin: fmt
+[23:56:36]  * fmt plugin loaded
+[23:56:36]  * v2.1 (c) vsergeenko
+[23:56:36]   Loaded.
+[23:56:36]  Loading plugin: mysql
+[23:56:36]  >> plugin.mysql: R41-4 successfully loaded.
+[23:56:36]   Loaded.
+[23:56:36]  Loading plugin: sscanf
+[23:56:36] 
+[23:56:36]  ===============================
+[23:56:36] 
+[23:56:36]       sscanf plugin loaded.     
+[23:56:36] 
+[23:56:36]          Version: 2.13.2
+[23:56:36] 
+[23:56:36]    (c) 2022 Alex "Y_Less" Cole  
+[23:56:36] 
+[23:56:36]  ===============================
+[23:56:36] 
+[23:56:36]   Loaded.
+[23:56:36]  Loaded 3 plugins.
+
+[23:56:36] 
+[23:56:36] Filterscripts
+[23:56:36] ---------------
+[23:56:36]   Loaded 0 filterscripts.
+
+[23:56:44] 
+----------------------------------
+[23:56:44]  Blank Gamemode by your name here
+[23:56:44] ----------------------------------
+
+[23:56:44] Number of vehicle models: 0
+[23:57:00] [connection] 127.0.0.1:61748 requests connection cookie.
+[23:57:01] [connection] incoming connection: 127.0.0.1:61748 id: 0
+[23:57:02] [join] xWi[]var has joined the server (0:127.0.0.1)
+[23:57:17] [part] xWi[]var has left the server (0:1)
+[23:57:17] [connection] incoming connection: 127.0.0.1:54438 id: 0
+[23:57:17] [join] xWi[]var has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:00:06] 
+[00:00:06] Server Plugins
+[00:00:06] --------------
+[00:00:06]  Loading plugin: fmt
+[00:00:06]  * fmt plugin loaded
+[00:00:06]  * v2.1 (c) vsergeenko
+[00:00:06]   Loaded.
+[00:00:06]  Loading plugin: mysql
+[00:00:06]  >> plugin.mysql: R41-4 successfully loaded.
+[00:00:06]   Loaded.
+[00:00:06]  Loading plugin: sscanf
+[00:00:06] 
+[00:00:06]  ===============================
+[00:00:06] 
+[00:00:06]       sscanf plugin loaded.     
+[00:00:06] 
+[00:00:06]          Version: 2.13.2
+[00:00:06] 
+[00:00:06]    (c) 2022 Alex "Y_Less" Cole  
+[00:00:06] 
+[00:00:06]  ===============================
+[00:00:06] 
+[00:00:06]   Loaded.
+[00:00:06]  Loaded 3 plugins.
+
+[00:00:06] 
+[00:00:06] Filterscripts
+[00:00:06] ---------------
+[00:00:06]   Loaded 0 filterscripts.
+
+[00:00:09] [connection] 127.0.0.1:57811 requests connection cookie.
+[00:00:14] 
+----------------------------------
+[00:00:14]  Blank Gamemode by your name here
+[00:00:14] ----------------------------------
+
+[00:00:14] Number of vehicle models: 0
+[00:00:14] [connection] incoming connection: 127.0.0.1:57811 id: 0
+[00:00:14] [join] xWi[]var has joined the server (0:127.0.0.1)
+[00:01:06] [part] xWi[]var has left the server (0:1)
+[00:01:06] [connection] incoming connection: 127.0.0.1:55739 id: 0
+[00:01:06] [join] xWi[]var has joined the server (0:127.0.0.1)
+[00:01:08] [chat] [xWi[]var]: q
+[00:01:08] [part] xWi[]var has left the server (0:1)
+[00:01:17] [connection] 127.0.0.1:52818 requests connection cookie.
+[00:01:18] [connection] incoming connection: 127.0.0.1:52818 id: 0
+[00:02:01] [connection] incoming connection: 127.0.0.1:50414 id: 0
+[00:02:02] [join] 1231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:05:48] 
+[00:05:48] Server Plugins
+[00:05:48] --------------
+[00:05:48]  Loading plugin: fmt
+[00:05:48]  * fmt plugin loaded
+[00:05:48]  * v2.1 (c) vsergeenko
+[00:05:48]   Loaded.
+[00:05:48]  Loading plugin: mysql
+[00:05:48]  >> plugin.mysql: R41-4 successfully loaded.
+[00:05:48]   Loaded.
+[00:05:48]  Loading plugin: sscanf
+[00:05:48] 
+[00:05:48]  ===============================
+[00:05:48] 
+[00:05:48]       sscanf plugin loaded.     
+[00:05:48] 
+[00:05:48]          Version: 2.13.2
+[00:05:48] 
+[00:05:48]    (c) 2022 Alex "Y_Less" Cole  
+[00:05:48] 
+[00:05:48]  ===============================
+[00:05:48] 
+[00:05:48]   Loaded.
+[00:05:48]  Loaded 3 plugins.
+
+[00:05:48] 
+[00:05:48] Filterscripts
+[00:05:48] ---------------
+[00:05:48]   Loaded 0 filterscripts.
+
+[00:05:52] [connection] 127.0.0.1:62277 requests connection cookie.
+[00:05:57] 
+----------------------------------
+[00:05:57]  Blank Gamemode by your name here
+[00:05:57] ----------------------------------
+
+[00:05:57] Number of vehicle models: 0
+[00:05:57] [connection] incoming connection: 127.0.0.1:62277 id: 0
+[00:05:57] [join] 1231 has joined the server (0:127.0.0.1)
+[00:05:57] [nick] 1231 nick changed to 00000000000000000000
+[00:06:13] [part] 00000000000000000000 has left the server (0:2)
+[00:06:13] [connection] incoming connection: 127.0.0.1:50822 id: 0
+[00:06:14] [join] 00000000000000000000 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:29:25] 
+[16:29:25] Server Plugins
+[16:29:25] --------------
+[16:29:25]  Loading plugin: fmt
+[16:29:26]  * fmt plugin loaded
+[16:29:26]  * v2.1 (c) vsergeenko
+[16:29:26]   Loaded.
+[16:29:26]  Loading plugin: mysql
+[16:29:26]  >> plugin.mysql: R41-4 successfully loaded.
+[16:29:26]   Loaded.
+[16:29:26]  Loading plugin: sscanf
+[16:29:27] 
+[16:29:27]  ===============================
+[16:29:27] 
+[16:29:27]       sscanf plugin loaded.     
+[16:29:27] 
+[16:29:27]          Version: 2.13.2
+[16:29:27] 
+[16:29:27]    (c) 2022 Alex "Y_Less" Cole  
+[16:29:27] 
+[16:29:27]  ===============================
+[16:29:27] 
+[16:29:27]   Loaded.
+[16:29:27]  Loaded 3 plugins.
+
+[16:29:27] 
+[16:29:27] Filterscripts
+[16:29:27] ---------------
+[16:29:27]   Loaded 0 filterscripts.
+
+[16:29:35] 
+----------------------------------
+[16:29:35]  Blank Gamemode by your name here
+[16:29:35] ----------------------------------
+
+[16:29:35] Number of vehicle models: 0
+Console input: 1
+Console input: gmx
+Console input: cls
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:29:49] 
+[16:29:49] Server Plugins
+[16:29:49] --------------
+[16:29:49]  Loading plugin: fmt
+[16:29:49]  * fmt plugin loaded
+[16:29:49]  * v2.1 (c) vsergeenko
+[16:29:49]   Loaded.
+[16:29:49]  Loading plugin: mysql
+[16:29:49]  >> plugin.mysql: R41-4 successfully loaded.
+[16:29:49]   Loaded.
+[16:29:49]  Loading plugin: sscanf
+[16:29:49] 
+[16:29:49]  ===============================
+[16:29:49] 
+[16:29:49]       sscanf plugin loaded.     
+[16:29:49] 
+[16:29:49]          Version: 2.13.2
+[16:29:49] 
+[16:29:49]    (c) 2022 Alex "Y_Less" Cole  
+[16:29:49] 
+[16:29:49]  ===============================
+[16:29:49] 
+[16:29:49]   Loaded.
+[16:29:49]  Loaded 3 plugins.
+
+[16:29:49] 
+[16:29:49] Filterscripts
+[16:29:49] ---------------
+[16:29:49]   Loaded 0 filterscripts.
+
+[16:29:57] 
+----------------------------------
+[16:29:57]  Blank Gamemode by your name here
+[16:29:57] ----------------------------------
+
+[16:29:57] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:30:07] 
+[16:30:07] Server Plugins
+[16:30:07] --------------
+[16:30:07]  Loading plugin: fmt
+[16:30:07]  * fmt plugin loaded
+[16:30:07]  * v2.1 (c) vsergeenko
+[16:30:07]   Loaded.
+[16:30:07]  Loading plugin: mysql
+[16:30:07]  >> plugin.mysql: R41-4 successfully loaded.
+[16:30:07]   Loaded.
+[16:30:07]  Loading plugin: sscanf
+[16:30:07] 
+[16:30:07]  ===============================
+[16:30:07] 
+[16:30:07]       sscanf plugin loaded.     
+[16:30:07] 
+[16:30:07]          Version: 2.13.2
+[16:30:07] 
+[16:30:07]    (c) 2022 Alex "Y_Less" Cole  
+[16:30:07] 
+[16:30:07]  ===============================
+[16:30:07] 
+[16:30:07]   Loaded.
+[16:30:07]  Loaded 3 plugins.
+
+[16:30:07] 
+[16:30:07] Filterscripts
+[16:30:07] ---------------
+[16:30:07]   Loaded 0 filterscripts.
+
+[16:30:07] 
+----------------------------------
+[16:30:07]  Blank Gamemode by your name here
+[16:30:07] ----------------------------------
+
+[16:30:07] Number of vehicle models: 0
+[16:30:14] [connection] 127.0.0.1:52683 requests connection cookie.
+[16:30:15] [connection] incoming connection: 127.0.0.1:52683 id: 0
+[16:30:15] [join] xWivar has joined the server (0:127.0.0.1)
+[16:30:15] [nick] xWivar nick changed to _____authorization_____
+[16:30:59] [part] _____authorization_____ has left the server (0:2)
+[16:30:59] [connection] incoming connection: 127.0.0.1:58880 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:31:56] 
+[16:31:56] Server Plugins
+[16:31:56] --------------
+[16:31:56]  Loading plugin: fmt
+[16:31:56]  * fmt plugin loaded
+[16:31:56]  * v2.1 (c) vsergeenko
+[16:31:56]   Loaded.
+[16:31:56]  Loading plugin: mysql
+[16:31:56]  >> plugin.mysql: R41-4 successfully loaded.
+[16:31:56]   Loaded.
+[16:31:56]  Loading plugin: sscanf
+[16:31:56] 
+[16:31:56]  ===============================
+[16:31:56] 
+[16:31:56]       sscanf plugin loaded.     
+[16:31:56] 
+[16:31:56]          Version: 2.13.2
+[16:31:56] 
+[16:31:56]    (c) 2022 Alex "Y_Less" Cole  
+[16:31:56] 
+[16:31:56]  ===============================
+[16:31:56] 
+[16:31:56]   Loaded.
+[16:31:56]  Loaded 3 plugins.
+
+[16:31:56] 
+[16:31:56] Filterscripts
+[16:31:56] ---------------
+[16:31:56]   Loaded 0 filterscripts.
+
+[16:31:57] 
+----------------------------------
+[16:31:57]  Blank Gamemode by your name here
+[16:31:57] ----------------------------------
+
+[16:31:57] Number of vehicle models: 0
+[16:32:08] [connection] 127.0.0.1:58925 requests connection cookie.
+[16:32:09] [connection] incoming connection: 127.0.0.1:58925 id: 0
+[16:32:10] [join] xWivar has joined the server (0:127.0.0.1)
+[16:32:10] [nick] xWivar nick changed to _____authorization_____
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:33:26] 
+[16:33:26] Server Plugins
+[16:33:26] --------------
+[16:33:26]  Loading plugin: fmt
+[16:33:26]  * fmt plugin loaded
+[16:33:26]  * v2.1 (c) vsergeenko
+[16:33:26]   Loaded.
+[16:33:26]  Loading plugin: mysql
+[16:33:26]  >> plugin.mysql: R41-4 successfully loaded.
+[16:33:26]   Loaded.
+[16:33:26]  Loading plugin: sscanf
+[16:33:26] 
+[16:33:26]  ===============================
+[16:33:26] 
+[16:33:26]       sscanf plugin loaded.     
+[16:33:26] 
+[16:33:26]          Version: 2.13.2
+[16:33:26] 
+[16:33:26]    (c) 2022 Alex "Y_Less" Cole  
+[16:33:26] 
+[16:33:26]  ===============================
+[16:33:26] 
+[16:33:26]   Loaded.
+[16:33:26]  Loaded 3 plugins.
+
+[16:33:26] 
+[16:33:26] Filterscripts
+[16:33:26] ---------------
+[16:33:26]   Loaded 0 filterscripts.
+
+[16:33:26] 
+----------------------------------
+[16:33:26]  Blank Gamemode by your name here
+[16:33:26] ----------------------------------
+
+[16:33:26] Number of vehicle models: 0
+[16:33:32] [connection] 127.0.0.1:62786 requests connection cookie.
+[16:33:33] [connection] incoming connection: 127.0.0.1:62786 id: 0
+[16:33:40] [connection] incoming connection: 127.0.0.1:55157 id: 0
+[16:33:41] [join] ddd has joined the server (0:127.0.0.1)
+[16:33:41] [nick] ddd nick changed to _____authorization_____
+[16:33:47] [part] _____authorization_____ has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:38:54] 
+[16:38:54] Server Plugins
+[16:38:54] --------------
+[16:38:54]  Loading plugin: fmt
+[16:38:54]  * fmt plugin loaded
+[16:38:54]  * v2.1 (c) vsergeenko
+[16:38:54]   Loaded.
+[16:38:54]  Loading plugin: mysql
+[16:38:54]  >> plugin.mysql: R41-4 successfully loaded.
+[16:38:54]   Loaded.
+[16:38:54]  Loading plugin: sscanf
+[16:38:54] 
+[16:38:54]  ===============================
+[16:38:54] 
+[16:38:54]       sscanf plugin loaded.     
+[16:38:54] 
+[16:38:54]          Version: 2.13.2
+[16:38:54] 
+[16:38:54]    (c) 2022 Alex "Y_Less" Cole  
+[16:38:54] 
+[16:38:54]  ===============================
+[16:38:54] 
+[16:38:54]   Loaded.
+[16:38:54]  Loaded 3 plugins.
+
+[16:38:54] 
+[16:38:54] Filterscripts
+[16:38:54] ---------------
+[16:38:54]   Loaded 0 filterscripts.
+
+[16:38:54] 
+----------------------------------
+[16:38:54]  Blank Gamemode by your name here
+[16:38:54] ----------------------------------
+
+[16:38:54] Number of vehicle models: 0
+[16:38:55] [connection] 127.0.0.1:50532 requests connection cookie.
+[16:38:56] [connection] incoming connection: 127.0.0.1:50532 id: 0
+[16:38:56] [join] xWivar has joined the server (0:127.0.0.1)
+[16:38:56] [nick] xWivar nick changed to _____authorization_____
+[16:41:14] [part] _____authorization_____ has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:43:51] 
+[16:43:51] Server Plugins
+[16:43:51] --------------
+[16:43:51]  Loading plugin: fmt
+[16:43:51]  * fmt plugin loaded
+[16:43:51]  * v2.1 (c) vsergeenko
+[16:43:51]   Loaded.
+[16:43:51]  Loading plugin: mysql
+[16:43:51]  >> plugin.mysql: R41-4 successfully loaded.
+[16:43:51]   Loaded.
+[16:43:51]  Loading plugin: sscanf
+[16:43:51] 
+[16:43:51]  ===============================
+[16:43:51] 
+[16:43:51]       sscanf plugin loaded.     
+[16:43:51] 
+[16:43:51]          Version: 2.13.2
+[16:43:51] 
+[16:43:51]    (c) 2022 Alex "Y_Less" Cole  
+[16:43:51] 
+[16:43:51]  ===============================
+[16:43:51] 
+[16:43:51]   Loaded.
+[16:43:51]  Loaded 3 plugins.
+
+[16:43:51] 
+[16:43:51] Filterscripts
+[16:43:51] ---------------
+[16:43:51]   Loaded 0 filterscripts.
+
+[16:43:51] 
+----------------------------------
+[16:43:51]  Blank Gamemode by your name here
+[16:43:51] ----------------------------------
+
+[16:43:51] Number of vehicle models: 0
+[16:44:02] [connection] 127.0.0.1:62036 requests connection cookie.
+[16:44:03] [connection] incoming connection: 127.0.0.1:62036 id: 0
+[16:44:04] [join] xWivar has joined the server (0:127.0.0.1)
+[16:44:04] [nick] xWivar nick changed to _____authorization_____
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:46:57] 
+[16:46:57] Server Plugins
+[16:46:57] --------------
+[16:46:57]  Loading plugin: fmt
+[16:46:57]  * fmt plugin loaded
+[16:46:57]  * v2.1 (c) vsergeenko
+[16:46:57]   Loaded.
+[16:46:57]  Loading plugin: mysql
+[16:46:57]  >> plugin.mysql: R41-4 successfully loaded.
+[16:46:57]   Loaded.
+[16:46:57]  Loading plugin: sscanf
+[16:46:57] 
+[16:46:57]  ===============================
+[16:46:57] 
+[16:46:57]       sscanf plugin loaded.     
+[16:46:57] 
+[16:46:57]          Version: 2.13.2
+[16:46:57] 
+[16:46:57]    (c) 2022 Alex "Y_Less" Cole  
+[16:46:57] 
+[16:46:57]  ===============================
+[16:46:57] 
+[16:46:57]   Loaded.
+[16:46:57]  Loaded 3 plugins.
+
+[16:46:57] 
+[16:46:57] Filterscripts
+[16:46:57] ---------------
+[16:46:57]   Loaded 0 filterscripts.
+
+[16:46:57] 
+----------------------------------
+[16:46:57]  Blank Gamemode by your name here
+[16:46:57] ----------------------------------
+
+[16:46:57] Number of vehicle models: 0
+[16:47:09] [connection] 127.0.0.1:51578 requests connection cookie.
+[16:47:10] [connection] incoming connection: 127.0.0.1:51578 id: 0
+[16:47:17] [connection] incoming connection: 127.0.0.1:51579 id: 0
+[16:47:17] [join] 1231 has joined the server (0:127.0.0.1)
+[16:47:17] [nick] 1231 nick changed to _____authorization_____
+[16:47:37] [part] _____authorization_____ has left the server (0:1)
+[16:47:37] [connection] incoming connection: 127.0.0.1:49967 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:47:44] 
+[16:47:44] Server Plugins
+[16:47:44] --------------
+[16:47:44]  Loading plugin: fmt
+[16:47:44]  * fmt plugin loaded
+[16:47:44]  * v2.1 (c) vsergeenko
+[16:47:44]   Loaded.
+[16:47:44]  Loading plugin: mysql
+[16:47:44]  >> plugin.mysql: R41-4 successfully loaded.
+[16:47:44]   Loaded.
+[16:47:44]  Loading plugin: sscanf
+[16:47:44] 
+[16:47:44]  ===============================
+[16:47:44] 
+[16:47:44]       sscanf plugin loaded.     
+[16:47:44] 
+[16:47:44]          Version: 2.13.2
+[16:47:44] 
+[16:47:44]    (c) 2022 Alex "Y_Less" Cole  
+[16:47:44] 
+[16:47:44]  ===============================
+[16:47:44] 
+[16:47:44]   Loaded.
+[16:47:44]  Loaded 3 plugins.
+
+[16:47:44] 
+[16:47:44] Filterscripts
+[16:47:44] ---------------
+[16:47:44]   Loaded 0 filterscripts.
+
+[16:47:44] 
+----------------------------------
+[16:47:44]  Blank Gamemode by your name here
+[16:47:44] ----------------------------------
+
+[16:47:44] Number of vehicle models: 0
+[16:47:50] [connection] 127.0.0.1:51675 requests connection cookie.
+[16:47:51] [connection] incoming connection: 127.0.0.1:51675 id: 0
+[16:47:51] [join] xWivar has joined the server (0:127.0.0.1)
+[16:47:51] [nick] xWivar nick changed to _____authorization_____
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:48:58] 
+[16:48:58] Server Plugins
+[16:48:58] --------------
+[16:48:58]  Loading plugin: fmt
+[16:48:58]  * fmt plugin loaded
+[16:48:58]  * v2.1 (c) vsergeenko
+[16:48:58]   Loaded.
+[16:48:58]  Loading plugin: mysql
+[16:48:58]  >> plugin.mysql: R41-4 successfully loaded.
+[16:48:58]   Loaded.
+[16:48:58]  Loading plugin: sscanf
+[16:48:58] 
+[16:48:58]  ===============================
+[16:48:58] 
+[16:48:58]       sscanf plugin loaded.     
+[16:48:58] 
+[16:48:58]          Version: 2.13.2
+[16:48:58] 
+[16:48:58]    (c) 2022 Alex "Y_Less" Cole  
+[16:48:58] 
+[16:48:58]  ===============================
+[16:48:58] 
+[16:48:58]   Loaded.
+[16:48:58]  Loaded 3 plugins.
+
+[16:48:58] 
+[16:48:58] Filterscripts
+[16:48:58] ---------------
+[16:48:58]   Loaded 0 filterscripts.
+
+[16:48:58] 
+----------------------------------
+[16:48:58]  Blank Gamemode by your name here
+[16:48:58] ----------------------------------
+
+[16:48:58] Number of vehicle models: 0
+[16:49:03] [connection] 127.0.0.1:55934 requests connection cookie.
+[16:49:04] [connection] incoming connection: 127.0.0.1:55934 id: 0
+[16:49:04] [join] xWivar has joined the server (0:127.0.0.1)
+[16:49:04] [nick] xWivar nick changed to _____authorization_____
+[16:49:08] [chat] [_____authorization_____]: #û
+[16:49:11] [chat] [_____authorization_____]: #s
+[16:49:57] [chat] [_____authorization_____]: \n
+[16:49:59] [chat] [_____authorization_____]: \t
+[16:50:05] [chat] [_____authorization_____]: #s
+[16:50:05] [chat] [_____authorization_____]: #s
+[16:50:05] [chat] [_____authorization_____]: #s
+[16:50:06] [chat] [_____authorization_____]: #s
+[16:50:06] [chat] [_____authorization_____]: #s
+[16:50:06] [chat] [_____authorization_____]: #s
+[16:50:27] [chat] [_____authorization_____]: '
+[16:50:28] [chat] [_____authorization_____]: ''
+[16:50:41] [chat] [_____authorization_____]: ?
+[16:50:46] [chat] [_____authorization_____]: ??????????????????????????
+[16:50:49] [part] _____authorization_____ has left the server (0:2)
+[16:50:49] [connection] incoming connection: 127.0.0.1:54122 id: 0
+[16:51:04] [connection] incoming connection: 127.0.0.1:57374 id: 0
+[16:51:12] [connection] incoming connection: 127.0.0.1:51682 id: 0
+[16:51:12] [join] 123 has joined the server (0:127.0.0.1)
+[16:51:12] [nick] 123 nick changed to _____authorization_____
+[16:51:16] [chat] [_____authorization_____]: ²
+[16:51:33] [chat] [_____authorization_____]: Aea??
+[16:51:43] [part] _____authorization_____ has left the server (0:2)
+[16:51:43] [connection] incoming connection: 127.0.0.1:58199 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:17:33] 
+[17:17:33] Server Plugins
+[17:17:33] --------------
+[17:17:33]  Loading plugin: fmt
+[17:17:33]  * fmt plugin loaded
+[17:17:33]  * v2.1 (c) vsergeenko
+[17:17:33]   Loaded.
+[17:17:33]  Loading plugin: mysql
+[17:17:33]  >> plugin.mysql: R41-4 successfully loaded.
+[17:17:33]   Loaded.
+[17:17:33]  Loading plugin: sscanf
+[17:17:33] 
+[17:17:33]  ===============================
+[17:17:33] 
+[17:17:33]       sscanf plugin loaded.     
+[17:17:33] 
+[17:17:33]          Version: 2.13.2
+[17:17:33] 
+[17:17:33]    (c) 2022 Alex "Y_Less" Cole  
+[17:17:33] 
+[17:17:33]  ===============================
+[17:17:33] 
+[17:17:33]   Loaded.
+[17:17:33]  Loaded 3 plugins.
+
+[17:17:33] 
+[17:17:33] Filterscripts
+[17:17:33] ---------------
+[17:17:33]   Loaded 0 filterscripts.
+
+[17:17:33] 
+----------------------------------
+[17:17:33]  Blank Gamemode by your name here
+[17:17:33] ----------------------------------
+
+[17:17:33] Number of vehicle models: 0
+[17:17:38] [connection] 127.0.0.1:61455 requests connection cookie.
+[17:17:39] [connection] incoming connection: 127.0.0.1:61455 id: 0
+[17:17:39] [join] xWivar has joined the server (0:127.0.0.1)
+[17:17:39] [nick] xWivar nick changed to _____authorization_____
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:19:16] 
+[17:19:16] Server Plugins
+[17:19:16] --------------
+[17:19:16]  Loading plugin: fmt
+[17:19:16]  * fmt plugin loaded
+[17:19:16]  * v2.1 (c) vsergeenko
+[17:19:16]   Loaded.
+[17:19:16]  Loading plugin: mysql
+[17:19:16]  >> plugin.mysql: R41-4 successfully loaded.
+[17:19:16]   Loaded.
+[17:19:16]  Loading plugin: sscanf
+[17:19:16] 
+[17:19:16]  ===============================
+[17:19:16] 
+[17:19:16]       sscanf plugin loaded.     
+[17:19:16] 
+[17:19:16]          Version: 2.13.2
+[17:19:16] 
+[17:19:16]    (c) 2022 Alex "Y_Less" Cole  
+[17:19:16] 
+[17:19:16]  ===============================
+[17:19:16] 
+[17:19:16]   Loaded.
+[17:19:16]  Loaded 3 plugins.
+
+[17:19:16] 
+[17:19:16] Filterscripts
+[17:19:16] ---------------
+[17:19:16]   Loaded 0 filterscripts.
+
+[17:19:16] 
+----------------------------------
+[17:19:16]  Blank Gamemode by your name here
+[17:19:16] ----------------------------------
+
+[17:19:16] Number of vehicle models: 0
+[17:19:21] [connection] 127.0.0.1:59226 requests connection cookie.
+[17:19:22] [connection] incoming connection: 127.0.0.1:59226 id: 0
+[17:19:29] [connection] incoming connection: 127.0.0.1:63783 id: 0
+[17:19:29] [join] 1233 has joined the server (0:127.0.0.1)
+[17:19:29] [nick] 1233 nick changed to _____authorization_____
+[17:20:01] [part] _____authorization_____ has left the server (0:1)
+[17:20:01] [connection] incoming connection: 127.0.0.1:61191 id: 0
+[17:20:09] [connection] incoming connection: 127.0.0.1:49586 id: 0
+[17:20:09] [join] 1231 has joined the server (0:127.0.0.1)
+[17:20:09] [nick] 1231 nick changed to _____authorization_____
+[17:31:12] [part] _____authorization_____ has left the server (0:1)
+[17:31:12] [connection] 127.0.0.1:64737 requests connection cookie.
+[17:31:13] [connection] incoming connection: 127.0.0.1:64737 id: 0
+[19:36:17] [connection] 127.0.0.1:58246 requests connection cookie.
+[19:36:18] [connection] incoming connection: 127.0.0.1:58246 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:42:30] 
+[19:42:30] Server Plugins
+[19:42:30] --------------
+[19:42:30]  Loading plugin: fmt
+[19:42:30]  * fmt plugin loaded
+[19:42:30]  * v2.1 (c) vsergeenko
+[19:42:30]   Loaded.
+[19:42:30]  Loading plugin: mysql
+[19:42:30]  >> plugin.mysql: R41-4 successfully loaded.
+[19:42:30]   Loaded.
+[19:42:30]  Loading plugin: sscanf
+[19:42:30] 
+[19:42:30]  ===============================
+[19:42:30] 
+[19:42:30]       sscanf plugin loaded.     
+[19:42:30] 
+[19:42:30]          Version: 2.13.2
+[19:42:30] 
+[19:42:30]    (c) 2022 Alex "Y_Less" Cole  
+[19:42:30] 
+[19:42:30]  ===============================
+[19:42:30] 
+[19:42:30]   Loaded.
+[19:42:30]  Loaded 3 plugins.
+
+[19:42:30] 
+[19:42:30] Filterscripts
+[19:42:30] ---------------
+[19:42:30]   Loaded 0 filterscripts.
+
+[19:42:30] 
+[19:42:30] 
+----------------------------------
+[19:42:30]  Blank Gamemode by your name here
+[19:42:30] ----------------------------------
+
+[19:42:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:42:42] 
+[19:42:42] Server Plugins
+[19:42:42] --------------
+[19:42:42]  Loading plugin: fmt
+[19:42:42]  * fmt plugin loaded
+[19:42:42]  * v2.1 (c) vsergeenko
+[19:42:42]   Loaded.
+[19:42:42]  Loading plugin: mysql
+[19:42:42]  >> plugin.mysql: R41-4 successfully loaded.
+[19:42:42]   Loaded.
+[19:42:42]  Loading plugin: sscanf
+[19:42:42] 
+[19:42:42]  ===============================
+[19:42:42] 
+[19:42:42]       sscanf plugin loaded.     
+[19:42:42] 
+[19:42:42]          Version: 2.13.2
+[19:42:42] 
+[19:42:42]    (c) 2022 Alex "Y_Less" Cole  
+[19:42:42] 
+[19:42:42]  ===============================
+[19:42:42] 
+[19:42:42]   Loaded.
+[19:42:42]  Loaded 3 plugins.
+
+[19:42:42] 
+[19:42:42] Filterscripts
+[19:42:42] ---------------
+[19:42:42]   Loaded 0 filterscripts.
+
+[19:42:43] 
+[19:42:43] 
+----------------------------------
+[19:42:43]  Blank Gamemode by your name here
+[19:42:43] ----------------------------------
+
+[19:42:43] Number of vehicle models: 0
+[19:42:56] [connection] 127.0.0.1:65297 requests connection cookie.
+[19:42:57] [connection] incoming connection: 127.0.0.1:65297 id: 0
+[19:42:58] [join] xWivar has joined the server (0:127.0.0.1)
+[19:42:58] [nick] xWivar nick changed to _____authorization_____
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:43:21] 
+[19:43:21] Server Plugins
+[19:43:21] --------------
+[19:43:21]  Loading plugin: fmt
+[19:43:21]  * fmt plugin loaded
+[19:43:21]  * v2.1 (c) vsergeenko
+[19:43:21]   Loaded.
+[19:43:21]  Loading plugin: mysql
+[19:43:21]  >> plugin.mysql: R41-4 successfully loaded.
+[19:43:21]   Loaded.
+[19:43:21]  Loading plugin: sscanf
+[19:43:21] 
+[19:43:21]  ===============================
+[19:43:21] 
+[19:43:21]       sscanf plugin loaded.     
+[19:43:21] 
+[19:43:21]          Version: 2.13.2
+[19:43:21] 
+[19:43:21]    (c) 2022 Alex "Y_Less" Cole  
+[19:43:21] 
+[19:43:21]  ===============================
+[19:43:21] 
+[19:43:21]   Loaded.
+[19:43:21]  Loaded 3 plugins.
+
+[19:43:21] 
+[19:43:21] Filterscripts
+[19:43:21] ---------------
+[19:43:21]   Loaded 0 filterscripts.
+
+[19:43:21] 
+[19:43:21] 
+----------------------------------
+[19:43:21]  Blank Gamemode by your name here
+[19:43:21] ----------------------------------
+
+[19:43:21] Number of vehicle models: 0
+[19:43:26] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:43:41] 
+[19:43:41] Server Plugins
+[19:43:41] --------------
+[19:43:41]  Loading plugin: fmt
+[19:43:41]  * fmt plugin loaded
+[19:43:41]  * v2.1 (c) vsergeenko
+[19:43:41]   Loaded.
+[19:43:41]  Loading plugin: mysql
+[19:43:41]  >> plugin.mysql: R41-4 successfully loaded.
+[19:43:41]   Loaded.
+[19:43:41]  Loading plugin: sscanf
+[19:43:41] 
+[19:43:41]  ===============================
+[19:43:41] 
+[19:43:41]       sscanf plugin loaded.     
+[19:43:41] 
+[19:43:41]          Version: 2.13.2
+[19:43:41] 
+[19:43:41]    (c) 2022 Alex "Y_Less" Cole  
+[19:43:41] 
+[19:43:41]  ===============================
+[19:43:41] 
+[19:43:41]   Loaded.
+[19:43:41]  Loaded 3 plugins.
+
+[19:43:41] 
+[19:43:41] Filterscripts
+[19:43:41] ---------------
+[19:43:41]   Loaded 0 filterscripts.
+
+[19:43:43] CONNECT: 
+[19:43:43] 
+----------------------------------
+[19:43:43]  Blank Gamemode by your name here
+[19:43:43] ----------------------------------
+
+[19:43:43] Number of vehicle models: 0
+[19:43:56] [connection] 127.0.0.1:56400 requests connection cookie.
+[19:43:57] [connection] incoming connection: 127.0.0.1:56400 id: 0
+[19:43:58] [join] xWivar has joined the server (0:127.0.0.1)
+[19:43:58] [nick] xWivar nick changed to _____authorization_____
+[19:44:13] [part] _____authorization_____ has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:45:27] 
+[19:45:27] Server Plugins
+[19:45:27] --------------
+[19:45:27]  Loading plugin: fmt
+[19:45:27]  * fmt plugin loaded
+[19:45:27]  * v2.1 (c) vsergeenko
+[19:45:27]   Loaded.
+[19:45:27]  Loading plugin: mysql
+[19:45:27]  >> plugin.mysql: R41-4 successfully loaded.
+[19:45:27]   Loaded.
+[19:45:27]  Loading plugin: sscanf
+[19:45:27] 
+[19:45:27]  ===============================
+[19:45:27] 
+[19:45:27]       sscanf plugin loaded.     
+[19:45:27] 
+[19:45:27]          Version: 2.13.2
+[19:45:27] 
+[19:45:27]    (c) 2022 Alex "Y_Less" Cole  
+[19:45:27] 
+[19:45:27]  ===============================
+[19:45:27] 
+[19:45:27]   Loaded.
+[19:45:27]  Loaded 3 plugins.
+
+[19:45:27] 
+[19:45:27] Filterscripts
+[19:45:27] ---------------
+[19:45:27]   Loaded 0 filterscripts.
+
+[19:45:28] CONNECT: 1045 PING:
+[19:45:28] 
+----------------------------------
+[19:45:28]  Blank Gamemode by your name here
+[19:45:28] ----------------------------------
+
+[19:45:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:46:17] 
+[19:46:17] Server Plugins
+[19:46:17] --------------
+[19:46:17]  Loading plugin: fmt
+[19:46:17]  * fmt plugin loaded
+[19:46:17]  * v2.1 (c) vsergeenko
+[19:46:17]   Loaded.
+[19:46:17]  Loading plugin: mysql
+[19:46:17]  >> plugin.mysql: R41-4 successfully loaded.
+[19:46:17]   Loaded.
+[19:46:17]  Loading plugin: sscanf
+[19:46:17] 
+[19:46:17]  ===============================
+[19:46:17] 
+[19:46:17]       sscanf plugin loaded.     
+[19:46:17] 
+[19:46:17]          Version: 2.13.2
+[19:46:17] 
+[19:46:17]    (c) 2022 Alex "Y_Less" Cole  
+[19:46:17] 
+[19:46:17]  ===============================
+[19:46:17] 
+[19:46:17]   Loaded.
+[19:46:17]  Loaded 3 plugins.
+
+[19:46:17] 
+[19:46:17] Filterscripts
+[19:46:17] ---------------
+[19:46:17]   Loaded 0 filterscripts.
+
+[19:46:18] CONNECT: 0 PING:
+[19:46:18] 
+----------------------------------
+[19:46:18]  Blank Gamemode by your name here
+[19:46:18] ----------------------------------
+
+[19:46:18] Number of vehicle models: 0
+[19:46:25] [connection] 127.0.0.1:62648 requests connection cookie.
+[19:46:26] [connection] incoming connection: 127.0.0.1:62648 id: 0
+[19:46:26] [join] xWivar has joined the server (0:127.0.0.1)
+[19:46:26] [nick] xWivar nick changed to _____authorization_____
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:47:43] 
+[19:47:43] Server Plugins
+[19:47:43] --------------
+[19:47:43]  Loading plugin: fmt
+[19:47:43]  * fmt plugin loaded
+[19:47:43]  * v2.1 (c) vsergeenko
+[19:47:43]   Loaded.
+[19:47:43]  Loading plugin: mysql
+[19:47:43]  >> plugin.mysql: R41-4 successfully loaded.
+[19:47:43]   Loaded.
+[19:47:43]  Loading plugin: sscanf
+[19:47:43] 
+[19:47:43]  ===============================
+[19:47:43] 
+[19:47:43]       sscanf plugin loaded.     
+[19:47:43] 
+[19:47:43]          Version: 2.13.2
+[19:47:43] 
+[19:47:43]    (c) 2022 Alex "Y_Less" Cole  
+[19:47:43] 
+[19:47:43]  ===============================
+[19:47:43] 
+[19:47:43]   Loaded.
+[19:47:43]  Loaded 3 plugins.
+
+[19:47:43] 
+[19:47:43] Filterscripts
+[19:47:43] ---------------
+[19:47:43]   Loaded 0 filterscripts.
+
+[19:47:58] [connection] 127.0.0.1:53147 requests connection cookie.
+[19:47:59] CONNECT: 0 PING:
+[19:47:59] 
+----------------------------------
+[19:47:59]  Blank Gamemode by your name here
+[19:47:59] ----------------------------------
+
+[19:47:59] Number of vehicle models: 0
+[19:47:59] [connection] incoming connection: 127.0.0.1:53147 id: 0
+[19:48:06] [connection] incoming connection: 127.0.0.1:62194 id: 0
+[19:48:06] [join] 123 has joined the server (0:127.0.0.1)
+[19:48:06] [nick] 123 nick changed to _____authorization_____
+Console input: stop
+Console input: exit
+[19:48:46] --- Server Shutting Down.
+[19:48:46] [part] _____authorization_____ has left the server (0:0)
+[19:48:46]  * fmt plugin unloaded
+[19:48:46] plugin.mysql: Unloading plugin...
+[19:48:46] plugin.mysql: Plugin unloaded.
+[19:48:46] 
+[19:48:46]  ===============================
+[19:48:46] 
+[19:48:46]      sscanf plugin unloaded.    
+[19:48:46] 
+[19:48:46]  ===============================
+[19:48:46] 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:48:50] 
+[19:48:50] Server Plugins
+[19:48:50] --------------
+[19:48:50]  Loading plugin: fmt
+[19:48:50]  * fmt plugin loaded
+[19:48:50]  * v2.1 (c) vsergeenko
+[19:48:50]   Loaded.
+[19:48:50]  Loading plugin: mysql
+[19:48:50]  >> plugin.mysql: R41-4 successfully loaded.
+[19:48:50]   Loaded.
+[19:48:50]  Loading plugin: sscanf
+[19:48:50] 
+[19:48:50]  ===============================
+[19:48:50] 
+[19:48:50]       sscanf plugin loaded.     
+[19:48:50] 
+[19:48:50]          Version: 2.13.2
+[19:48:50] 
+[19:48:50]    (c) 2022 Alex "Y_Less" Cole  
+[19:48:50] 
+[19:48:50]  ===============================
+[19:48:50] 
+[19:48:50]   Loaded.
+[19:48:50]  Loaded 3 plugins.
+
+[19:48:50] 
+[19:48:50] Filterscripts
+[19:48:50] ---------------
+[19:48:50]   Loaded 0 filterscripts.
+
+[19:48:51] CONNECT: 0 PING:
+[19:48:51] 
+----------------------------------
+[19:48:51]  Blank Gamemode by your name here
+[19:48:51] ----------------------------------
+
+[19:48:51] Number of vehicle models: 0
+Console input: exit
+[19:51:28] --- Server Shutting Down.
+[19:51:28]  * fmt plugin unloaded
+[19:51:28] plugin.mysql: Unloading plugin...
+[19:51:28] plugin.mysql: Plugin unloaded.
+[19:51:28] 
+[19:51:28]  ===============================
+[19:51:28] 
+[19:51:28]      sscanf plugin unloaded.    
+[19:51:28] 
+[19:51:28]  ===============================
+[19:51:28] 
